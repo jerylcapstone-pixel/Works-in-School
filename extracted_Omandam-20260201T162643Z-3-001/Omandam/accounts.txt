@@ -1,0 +1,7 @@
+admin
+username: jeryl
+password:Markjeryl-21
+
+customer
+username: krajer
+password:Markjeryl-21
